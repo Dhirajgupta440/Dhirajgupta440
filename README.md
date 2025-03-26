@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Problem Solving**
 
-- 📫 How to reach me **dhirajg424@gmail.com**
+- 📫 How to reach me **dhiraj.300012723016@csvtu.ac.in**
 
 - ⚡ Fun fact **I think i m funny**
 
