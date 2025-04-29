@@ -61,10 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dhirajgupta440&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true" alt="dhirajgupta440" />
 </p>
 
-<h3 align="left">Streak Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajgupta440&" alt="dhirajgupta440" />
-</p>
 
 <h3 align="left">Longest Streak:</h3>
 <p align="left">
