@@ -64,6 +64,6 @@
 
 <h3 align="left">Longest Streak:</h3>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajgupta440&hide_border=true&card_width=400" alt="longest-streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajgupta440&hide_border=true&card_width=400" alt="longest-streak" /> 
 </p>
 
