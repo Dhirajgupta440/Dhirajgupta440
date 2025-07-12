@@ -12,7 +12,7 @@
 </p>
 
 - 🔭 I’m currently working on **Machine learning**
-- 🌱 I’m currently learning **Machine learning,Deep Learning, Neural Network**
+- 🌱 I’m currently learning **Machine learning, Deep Learning, Neural Network**
 - 👯 I’m looking to collaborate on **AI/ML related team**
 - 💬 Ask me about **Problem Solving**
 - 📫 How to reach me **dhiraj.300012723016@csvtu.ac.in**
