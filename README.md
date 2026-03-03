@@ -37,7 +37,7 @@ NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | TensorFlow
 Deep Learning | Computer Vision | Data Preprocessing | Model Evaluation  
 
 **Tools & Platforms:**  
-Git | GitHub | Jupyter Notebook | VS Code | Windows | Linux | Android  
+Git | GitHub | Jupyter Notebook | VS Code | Google Colab| Windows | Android  
 
 ---
 
