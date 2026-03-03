@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🎓 **B.Tech (Hons.) CSE (Artificial Intelligence)** | CSVTU Bhilai | CGPA: 8.54  
+🎓 **B.Tech (Hons.) CSE (Artificial Intelligence)** | CSVTU Bhilai 
 🤖 Passionate about Artificial Intelligence, Machine Learning & Data Science  
 💡 Strong foundation in Machine Learning, Data Structures & Deep Learning  
 💻 Skilled in building intelligent systems for real-world problem solving  
