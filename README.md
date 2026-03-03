@@ -27,6 +27,22 @@
 
 ---
 
+## 🚀 Projects
+
+🔹 **[Students Performance Predictor](https://github.com/Dhirajgupta440/Students_Performance_Predictor)**  
+ML-based web app predicting exam percentage using Linear Regression.
+
+🔹 **[Movie Review Sentiment Analysis](https://github.com/Dhirajgupta440/Movie_Review_Sentiment_Analysis)**  
+Deep Learning model using TensorFlow to classify reviews as Positive or Negative.
+
+🔹 **[Image Recognition System for Fraud Detection](https://github.com/Dhirajgupta440/Image_Recognition_System_For_Fraud_Detection)**  
+ResNet-50 based system to detect authentic vs tampered images (CASIA dataset).
+
+🔹 **[AI Based Music Composer](https://github.com/Dhirajgupta440/AI_based_music_composer)**  
+AI-powered system that generates music using machine learning techniques.
+
+---
+
 ### 🛠️ Technical Skills
 
 **Programming:**  
@@ -37,7 +53,7 @@ NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | TensorFlow
 Deep Learning | Computer Vision | Data Preprocessing | Model Evaluation  
 
 **Tools & Platforms:**  
-Git | GitHub | Jupyter Notebook | VS Code | Google Colab| Windows | Android  
+Git | GitHub | Jupyter Notebook | VS Code | Windows | Linux | Android  
 
 ---
 
