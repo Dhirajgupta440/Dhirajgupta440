@@ -2,8 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&background=0D1117&center=true&vCenter=true&width=900&height=180&lines=🚀+B.Tech+(Hons.)+CSE+(AI)+Student;&lines=🤖+Machine+Learning+Enthusiast;&lines=📊+Data+Science+Explorer;&lines=🧠+Deep+Learning+Learner;&lines=💻+Building+AI+Powered+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=0&color=00C2FF&background=0D1117&center=true&vCenter=true&multiline=true&width=900&height=170&lines=🚀+B.Tech+(Hons.)+CSE+(AI)+Student%0A🤖+Machine+Learning+Enthusiast%0A📊+Data+Science+Explorer%0A🧠+Deep+Learning+Learner%0A💻+Building+AI+Powered+Applications" />
 
+</div>
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Dhirajgupta440&label=Total%20Profile%20Views&color=00C2FF&style=for-the-badge" />
