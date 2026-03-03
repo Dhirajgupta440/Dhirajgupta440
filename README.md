@@ -2,10 +2,17 @@
 
 <div align="center">
 
+<!-- Multi-line Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&background=0D1117&center=true&vCenter=true&width=900&height=180&lines=🚀+B.Tech+(Hons.)+CSE+(AI)+Student;&lines=🤖+Machine+Learning+Enthusiast;&lines=📊+Data+Science+Explorer;&lines=🧠+Deep+Learning+Learner;&lines=💻+Building+AI+Powered+Applications" />
 
 <br><br>
 
+<!-- Sliding Single-Line Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&background=0D1117&center=true&vCenter=true&width=800&height=100&lines=🚀+B.Tech+(Hons.)+CSE+(AI)+Student;🤖+Machine+Learning+Enthusiast;📊+Data+Science+Explorer;🧠+Deep+Learning+Learner;💻+Building+AI+Powered+Applications" />
+
+<br><br>
+
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=Dhirajgupta440&label=Total%20Profile%20Views&color=00C2FF&style=for-the-badge" />
 
 <br><br>
