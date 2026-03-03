@@ -1,9 +1,18 @@
 # Hi there, I'm **Dhiraj Kumar** 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&background=0D1117&center=true&vCenter=true&width=800&height=100&lines=🚀+B.Tech+(Hons.)+CSE+(AI)+Student;🤖+Machine+Learning+Enthusiast;📊+Data+Science+Explorer;🧠+Deep+Learning+Learner;💻+Building+AI+Powered+Applications" />
-</div>
 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=0&color=00C2FF&background=0D1117&center=true&vCenter=true&width=900&height=170&lines=🚀+B.Tech+(Hons.)+CSE+(AI)+Student%0A🤖+Machine+Learning+Enthusiast%0A📊+Data+Science+Explorer%0A🧠+Deep+Learning+Learner%0A💻+Building+AI+Powered+Applications" />
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=Dhirajgupta440&label=Total%20Profile%20Views&color=00C2FF&style=for-the-badge" />
+
+  <br><br>
+
+  <b>Artificial Intelligence Student | Machine Learning Enthusiast | Building Real-World AI Systems 🚀</b>
+
+</div>
 ---
 
 <div align="center">
