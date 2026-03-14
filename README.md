@@ -2,21 +2,25 @@
 
 # Hi there, I'm **Dhiraj Kumar** 👋
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXp3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="400" />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8A2BE2&text=Dhiraj%20Kumar%20🚀&height=100&fontSize=48&desc=Machine%20Learning%20||%20Artificial%20Intelligence%20||%20Data%20Science&descAlignY=75&descAlign=50" />
-</p>
+<table border="0">
+  <tr>
+    <td width="400">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXp3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="400" />
+    </td>
+    <td align="left" valign="middle">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8A2BE2&text=Dhiraj%20Kumar%20🚀&height=100&fontSize=48&desc=Machine%20Learning%20||%20Artificial%20Intelligence%20||%20Data%20Science&descAlignY=75&descAlign=50" width="500"/><br>
+      <b>Artificial Intelligence Student</b><br>
+      <b>Machine Learning Enthusiast</b><br>
+      <b>Building Real-World AI Systems 🚀</b>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=800&color=8A2BE2&center=true&vCenter=true&width=800&lines=🚀+B.Tech+(Hons.)+CSE+(AI)+Student;🤖+Machine+Learning+Enthusiast;📊+Data+Science+Explorer;💻+Building+AI+Powered+Applications" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Dhirajgupta440&label=Total%20Profile%20Views&color=8A2BE2&style=for-the-badge" />
-
-<br><br>
-
-<b>Artificial Intelligence Student | Machine Learning Enthusiast | Building Real-World AI Systems 🚀</b>
 
 </div>
 
