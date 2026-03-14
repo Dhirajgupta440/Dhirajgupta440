@@ -12,9 +12,8 @@
   <tr>
     <td align="left" valign="middle">
       <p align="left">
-        <font size="6"><b>Dhiraj Kumar</b></font><br>
-        <b>Artificial Intelligence Student 🚀</b><br>
-        <b>Machine Learning Enthusiast 🚀</b><br>
+        <font size="6"><b>Artificial Intelligence Student🚀</b><br>
+        <b>Machine Learning Enthusiast🚀</b><br>
         <b>Building Real-World AI Systems 🚀</b>
       </p>
     </td>
@@ -36,10 +35,10 @@
 
 <div align="center">
 
-🎓 **B.Tech (Hons.) CSE (Artificial Intelligence)** | CSVTU Bhilai
+🎓 **B.Tech (Hons.) CSE (Artificial Intelligence)** | CSVTU Bhila
 🤖 Passionate about Artificial Intelligence, Machine Learning & Data Science
 💡 Strong foundation in Machine Learning, Data Structures & Deep Learning
-💻 Skilled in building intelligent systems for real-world problem solving
+💻 Skilled in building intelligent systems for real-world problem solving  
 
 </div>
 
