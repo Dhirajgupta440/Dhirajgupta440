@@ -4,7 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header" />
 </p>
 
-# Hi there, I'm **Dhiraj Kumar** 👋
 
 </div>
 
@@ -17,8 +16,7 @@
   <tr>
     <td align="left" valign="middle">
       <p align="left">
-        <font size="6"><b>Dhiraj Kumar</b></font><br>
-        <b>Artificial Intelligence Student</b><br>
+        <font size="6"><b>Artificial Intelligence Student</b><br>
         <b>Machine Learning Enthusiast</b><br>
         <b>Building Real-World AI Systems 🚀</b>
       </p>
