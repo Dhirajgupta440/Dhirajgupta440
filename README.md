@@ -2,7 +2,7 @@
 
 # Hi there, I'm **Dhiraj Kumar** 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&height=100&lines=Machine+Learning+|+Data+Science+|+Deep+Learning+|+Artificial+Intelligence" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=50&lines=Machine+Learning+||+Artificial+Intelligence+||+Data+Science" />
 
 <br>
 
@@ -76,5 +76,6 @@ Deep Learning | Computer Vision | Data Preprocessing | Model Evaluation
 <br>
 
 ⭐ Thanks for visiting my profile!
+Striving for progress, not perfection 💫
 
 </div>
