@@ -17,6 +17,7 @@
   <tr>
     <td align="left" valign="middle">
       <p align="left">
+        <font size="6"><b>Dhiraj Kumar</b></font><br>
         <b>Artificial Intelligence Student</b><br>
         <b>Machine Learning Enthusiast</b><br>
         <b>Building Real-World AI Systems 🚀</b>
