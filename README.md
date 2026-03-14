@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXp3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="400" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8A2BE2&text=Dhiraj%20Kumar%20🚀&height=100&fontSize=48&desc=Machine%20Learning%20||%20Artificial%20Intelligence%20||%20Data%20Science&descAlignY=75&descAlign=50" />
+  height=100&fontSize=48&desc=Machine%20Learning%20||%20Artificial%20Intelligence%20||%20Data%20Science&descAlignY=75&descAlign=50" />
 </p>
 
 <p align="center">
