@@ -2,13 +2,15 @@
 
 # Hi there, I'm **Dhiraj Kumar** 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=50&lines=Machine+Learning+||+Artificial+Intelligence+||+Data+Science" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXp3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="400" />
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8A2BE2&text=Dhiraj%20Kumar%20🚀&height=100&fontSize=48&desc=Machine%20Learning%20||%20Artificial%20Intelligence%20||%20Data%20Science&descAlignY=75&descAlign=50" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=8A2BE2&background=0D1117&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🚀+B.Tech+(Hons.)+CSE+(AI)+Student;🤖+Machine+Learning+Enthusiast;📊+Data+Science+Explorer;💻+Building+AI+Powered+Applications" />
-
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=800&color=8A2BE2&center=true&vCenter=true&width=800&lines=🚀+B.Tech+(Hons.)+CSE+(AI)+Student;🤖+Machine+Learning+Enthusiast;📊+Data+Science+Explorer;💻+Building+AI+Powered+Applications" />
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=Dhirajgupta440&label=Total%20Profile%20Views&color=8A2BE2&style=for-the-badge" />
 
@@ -43,14 +45,16 @@
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,r,mysql,tensorflow,pytorch,sklearn,git,github,vscode,linux" />
+</p>
 
-**Programming:** C | C++ | Python | R  
-
-**Machine Learning & Data Science:** NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | TensorFlow  
-Deep Learning | Computer Vision | Data Preprocessing | Model Evaluation  
-
-**Tools & Platforms:** Git | GitHub | Jupyter Notebook | VS Code | Windows | Linux | Android  
+| Category            | Tools & Technologies |
+|--------------------|-----------------------|
+| **Programming** | Python, C, C++, R |
+| **ML/DL/DS** | TensorFlow, PyTorch, NumPy, Pandas, Scikit-learn |
+| **Tools/Platforms**| Git, GitHub, VS Code, Jupyter, Linux |
 
 ---
 
@@ -77,5 +81,9 @@ Deep Learning | Computer Vision | Data Preprocessing | Model Evaluation
 
 ⭐ Thanks for visiting my profile!  
 *Striving for progress, not perfection 💫*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" />
+</p>
 
 </div>
