@@ -1,11 +1,18 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header" />
+</p>
+
 # Hi there, I'm **Dhiraj Kumar** 👋
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8A2BE2&text=Dhiraj%20Kumar%20🚀&height=100&fontSize=48&desc=Machine%20Learning%20||%20Artificial%20Intelligence%20||%20Data%20Science&descAlignY=75&descAlign=50" />
+</p>
 
 <table border="0">
   <tr>
     <td align="left" valign="middle">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8A2BE2&text=Dhiraj%20Kumar%20🚀&height=120&fontSize=48&desc=Machine%20Learning%20||%20Artificial%20Intelligence%20||%20Data%20Science&descAlignY=80&descAlign=0" width="550"/><br>
       <p align="left">
         <b>Artificial Intelligence Student</b><br>
         <b>Machine Learning Enthusiast</b><br>
@@ -89,7 +96,4 @@
 *Striving for progress, not perfection 💫*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" />
-</p>
-
-</div>
+  <img src="
