@@ -4,8 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header" />
 </p>
 
-# Hi there, I'm **Dhiraj Kumar** 👋
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8A2BE2&text=Dhiraj%20Kumar%20🚀&height=150&fontSize=48&desc=Machine%20Learning%20||%20Artificial%20Intelligence%20||%20Data%20Science&descAlignY=85&descAlign=50" />
 </p>
@@ -14,9 +12,8 @@
   <tr>
     <td align="left" valign="middle">
       <p align="left">
-        <font size="6"><b>Dhiraj Kumar</b></font><br>
-        <b>Artificial Intelligence Student</b><br>
-        <b>Machine Learning Enthusiast</b><br>
+        <font size="6"><b>Artificial Intelligence Student🚀</b><br>
+        <b>Machine Learning Enthusiast🚀</b><br>
         <b>Building Real-World AI Systems 🚀</b>
       </p>
     </td>
