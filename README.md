@@ -4,14 +4,16 @@
 
 <table border="0">
   <tr>
-    <td width="400">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXp3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="400" />
-    </td>
     <td align="left" valign="middle">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8A2BE2&text=Dhiraj%20Kumar%20🚀&height=100&fontSize=48&desc=Machine%20Learning%20||%20Artificial%20Intelligence%20||%20Data%20Science&descAlignY=75&descAlign=50" width="500"/><br>
-      <b>Artificial Intelligence Student</b><br>
-      <b>Machine Learning Enthusiast</b><br>
-      <b>Building Real-World AI Systems 🚀</b>
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8A2BE2&text=Dhiraj%20Kumar%20🚀&height=120&fontSize=48&desc=Machine%20Learning%20||%20Artificial%20Intelligence%20||%20Data%20Science&descAlignY=80&descAlign=0" width="550"/><br>
+      <p align="left">
+        <b>Artificial Intelligence Student</b><br>
+        <b>Machine Learning Enthusiast</b><br>
+        <b>Building Real-World AI Systems 🚀</b>
+      </p>
+    </td>
+    <td width="400" align="right">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXp3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="380" />
     </td>
   </tr>
 </table>
