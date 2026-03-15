@@ -67,7 +67,7 @@
 |--------------------|-----------------------|
 | **Programming** | Python, C, C++, R |
 | **ML/DL/DS** | TensorFlow, PyTorch, NumPy, Pandas, Scikit-learn |
-| **Tools/Platforms**| Git, GitHub, VS Code, Jupyter, Linux |
+| **Tools/Platforms**| Git, GitHub, VS Code, Jupyter, Linux, Google Colab |
 
 ---
 
