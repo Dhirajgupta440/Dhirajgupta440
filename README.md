@@ -1,129 +1,129 @@
 <div align="center">
 
-# 👨‍💻 Dhiraj Kumar 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8A2BE2&text=Dhiraj%20Kumar%20🚀&height=150&fontSize=48&desc=Machine%20Learning%20||%20Artificial%20Intelligence%20||%20Data%20Science&descAlignY=85&descAlign=50" />
+</p>
 
-### Machine Learning | Artificial Intelligence | Data Science
+<table border="0">
+  <tr>
+    <td align="left" valign="middle">
+      <p align="left">
+        <font size="6"><b>Artificial Intelligence Student🚀</b><br>
+        <b>Machine Learning Enthusiast🚀</b><br>
+        <b>Building Real-World AI Systems 🚀</b>
+      </p>
+    </td>
+    <td width="400" align="right">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXp3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="380" />
+    </td>
+  </tr>
+</table>
 
-🎓 **B.Tech (Hons.) CSE – Artificial Intelligence**  
-CSVTU Bhilai
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=800&color=8A2BE2&center=true&vCenter=true&width=800&lines=🚀+B.Tech+(Hons.)+CSE+(AI)+Student;🤖+Machine+Learning+Enthusiast;📊+Data+Science+Explorer;💻+Building+AI+Powered+Applications" />
+</p>
 
-💡 Passionate about building intelligent systems for real-world problems
+<img src="https://komarev.com/ghpvc/?username=Dhirajgupta440&label=Total%20Profile%20Views&color=8A2BE2&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🚀 Projects
+<div align="center">
 
-### 📊 Students Performance Predictor
-ML-based web application predicting student exam percentage using **Linear Regression**.
+🎓 **B.Tech (Hons.) CSE (Artificial Intelligence)** | CSVTU Bhilai
 
-🔗 https://github.com/Dhirajgupta440/Students_Performance_Predictor
+🤖 Passionate about Artificial Intelligence, Machine Learning & Data Science
 
----
+💡 Strong foundation in Machine Learning, Data Structures & Deep Learning
 
-### 🎬 Movie Review Sentiment Analysis
-Deep learning model using **TensorFlow** to classify movie reviews as positive or negative.
+💻 Skilled in building intelligent systems for real-world problem solving  
 
-🔗 https://github.com/Dhirajgupta440/Movie_Review_Sentiment_Analysis
+</div>
 
 ---
 
-### 🕵️ Image Recognition for Fraud Detection
-ResNet-50 based system to detect **authentic vs tampered images** using the CASIA dataset.
+## 🚀 Projects
 
-🔗 https://github.com/Dhirajgupta440/Image_Recognition_System_For_Fraud_Detection
+🔹 **[Students Performance Predictor](https://github.com/Dhirajgupta440/Students_Performance_Predictor)** ML-based web app predicting exam percentage using Linear Regression.
 
----
+🔹 **[Movie Review Sentiment Analysis](https://github.com/Dhirajgupta440/Movie_Review_Sentiment_Analysis)** Deep Learning model using TensorFlow to classify reviews as Positive or Negative.
 
-### 🎵 AI Based Music Composer
-AI system that generates music using machine learning techniques.
+🔹 **[Image Recognition System for Fraud Detection](https://github.com/Dhirajgupta440/Image_Recognition_System_For_Fraud_Detection)** ResNet-50 based system to detect authentic vs tampered images (CASIA dataset).
 
-🔗 https://github.com/Dhirajgupta440/AI_based_music_composer
+🔹 **[AI Based Music Composer](https://github.com/Dhirajgupta440/AI_based_music_composer)** AI-powered system that generates music using machine learning techniques.
 
 ---
 
-# 💼 Internship & Workshop Experience
+## 💼 Internship & Workshop Experience
 
-### 🤖 Machine Learning Intern
-**STEMbotix Pvt. Ltd., Gandhinagar**  
-Feb 2025 – Present
+🔹 **Machine Learning Intern – STEMbotix Pvt. Ltd. (On Site)**  
+📍 Gandhinagar, Gujarat | Feb 2025 – Present  
+- Developed and optimized machine learning models for real-world applications.  
+- Worked on **computer vision tasks** and ML pipelines.  
+- Built an **Inventory Management System** to manage products, stock, and records efficiently.  
 
-• Developed and optimized machine learning models  
-• Worked on computer vision tasks  
-• Built an **Inventory Management System**
+🔹 **Data Science Intern – ISER (Remote)**  
+📍 Bhopal, Madhya Pradesh | Jan 2025 – Present  
+- Worked on **image tampering detection using computer vision and machine learning**.  
+- Used the **COCO dataset** for experimentation and model development.  
+- Contributed to **data preprocessing, feature extraction, and model evaluation** to improve detection accuracy.
 
----
+🔹 **Summer Intern – National Institute of Technology (NIT) Patna**  
+📍 Patna, Bihar | May 2025 – July 2025  
+- Conducted a **comparative study of deep learning models** including LeNet, ResNet, Transformer, and VGG16.  
+- Trained models on the **MNIST dataset** for image classification tasks.  
+- Evaluated models using **accuracy, precision, and recall metrics**.
 
-### 📊 Data Science Intern
-**ISER, Bhopal (Remote)**  
-Jan 2025 – Present
-
-• Worked on **image tampering detection** using computer vision  
-• Used the **COCO dataset** for model training  
-• Performed preprocessing and feature extraction
-
----
-
-### 🧠 Summer Intern
-**National Institute of Technology (NIT) Patna**  
-May 2025 – July 2025
-
-• Comparative study of **LeNet, ResNet, Transformer, VGG16**  
-• Trained models on the **MNIST dataset**  
-• Evaluated models using accuracy, precision, and recall
+🔹 **Data Analytics & Visualization Workshop – IIT Bhilai**  
+📍 Chhattisgarh | July 2025  
+- Learned **Python-based data analysis and exploratory data analysis (EDA)**.  
+- Worked with **Pandas, Matplotlib, Seaborn, and Plotly** for data visualization.  
+- Created interactive dashboards and performed analysis on real-world datasets.
 
 ---
-
-### 📈 Data Analytics & Visualization Workshop
-**IIT Bhilai**  
-July 2025
-
-• Learned **Exploratory Data Analysis (EDA)**  
-• Used **Pandas, Matplotlib, Seaborn, Plotly**  
-• Created interactive data visualizations
-
----
-
-# 🛠 Tech Stack
-
-### Programming
-Python • C • C++ • R
-
-### Machine Learning
-TensorFlow • PyTorch • Scikit-learn • NumPy • Pandas
-
-### Tools
-Git • GitHub • VS Code • Jupyter • Linux • Google Colab
-
----
-
-# 📊 GitHub Stats
-
+### 🛠️ Tech Stack
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dhirajgupta440&show_icons=true&theme=tokyonight" />
-
-<img src="https://streak-stats.demolab.com/?user=Dhirajgupta440&theme=tokyonight" />
-
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,r,mysql,tensorflow,pytorch,sklearn,git,github,vscode,linux" />
 </p>
 
----
-
-# 🌐 Connect With Me
-
-GitHub  
-https://github.com/Dhirajgupta440
-
-LinkedIn  
-https://www.linkedin.com/in/dhiraj-kumar-93a17a308
-
-Portfolio  
-https://dhiraj-dev-space.lovable.app
-
-Email  
-dhiraj.300012723016@csvtu.ac.in
+| Category            | Tools & Technologies |
+|--------------------|-----------------------|
+| **Programming** | Python, C, C++, R |
+| **ML/DL/DS** | TensorFlow, PyTorch, NumPy, Pandas, Scikit-learn |
+| **Tools/Platforms**| Git, GitHub, VS Code, Jupyter, Linux, Google Colab |
 
 ---
 
-⭐ **Striving for progress, not perfection**
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dhirajgupta440&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Dhirajgupta440&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Dhirajgupta440-000?style=for-the-badge&logo=github)](https://github.com/Dhirajgupta440)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhiraj%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiraj-kumar-93a17a308/)
+[![Instagram](https://img.shields.io/badge/Instagram-Dhiraj_Gupta-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhiraj_gupta440/?hl=en)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://dhiraj-dev-space.lovable.app/)
+[![Email](https://img.shields.io/badge/Email-dhiraj.300012723016@csvtu.ac.in-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhiraj.300012723016@csvtu.ac.in)
+
+<br>
+
+⭐ Thanks for visiting my profile!  
+*Striving for progress, not perfection 💫*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" />
+</p>
+
+</div>
