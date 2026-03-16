@@ -79,7 +79,7 @@
 - Evaluated models using **accuracy, precision, and recall metrics**.
 
 🔹 **Data Analytics & Visualization Workshop – IIT Bhilai (On Site)**  
-📍 Chhattisgarh | 14th July 2025 - 14th July 2025   
+📍 Bhilai, Chhattisgarh | 14th July 2025 - 14th July 2025   
 - Learned **Python-based data analysis and exploratory data analysis (EDA)**.  
 - Worked with **Pandas, Matplotlib, Seaborn, and Plotly** for data visualization.  
 - Created interactive dashboards and performed analysis on real-world datasets.
