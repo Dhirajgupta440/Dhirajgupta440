@@ -73,13 +73,13 @@
 - Contributed to **data preprocessing, feature extraction, and model evaluation** to improve detection accuracy.
 
 🔹 **Summer Intern – National Institute of Technology (NIT) Patna**  
-📍 Patna, Bihar | May 2025 – July 2025  
+📍 Patna, Bihar |19th May 2025 – 18th July 2025  
 - Conducted a **comparative study of deep learning models** including LeNet, ResNet, Transformer, and VGG16.  
 - Trained models on the **MNIST dataset** for image classification tasks.  
 - Evaluated models using **accuracy, precision, and recall metrics**.
 
 🔹 **Data Analytics & Visualization Workshop – IIT Bhilai**  
-📍 Chhattisgarh | July 2025  
+📍 Chhattisgarh | 14th July 2025 - 14th July 2025   
 - Learned **Python-based data analysis and exploratory data analysis (EDA)**.  
 - Worked with **Pandas, Matplotlib, Seaborn, and Plotly** for data visualization.  
 - Created interactive dashboards and performed analysis on real-world datasets.
