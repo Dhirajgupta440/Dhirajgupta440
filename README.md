@@ -67,19 +67,19 @@
 - Built an **Inventory Management System** to manage products, stock, and records efficiently.  
 
 🔹 **Data Science Intern – ISER (Remote)**  
-📍 Bhopal, Madhya Pradesh | Jan 2025 – Present  
+📍 Bhopal, Madhya Pradesh | 19th Jan 2025 – Present  
 - Worked on **image tampering detection using computer vision and machine learning**.  
 - Used the **COCO dataset** for experimentation and model development.  
 - Contributed to **data preprocessing, feature extraction, and model evaluation** to improve detection accuracy.
 
 🔹 **Summer Intern – National Institute of Technology (NIT) Patna**  
-📍 Patna, Bihar | May 2025 – July 2025  
+📍 Patna, Bihar | 19th May 2025 – 18th July 2025  
 - Conducted a **comparative study of deep learning models** including LeNet, ResNet, Transformer, and VGG16.  
 - Trained models on the **MNIST dataset** for image classification tasks.  
 - Evaluated models using **accuracy, precision, and recall metrics**.
 
 🔹 **Data Analytics & Visualization Workshop – IIT Bhilai**  
-📍 Chhattisgarh | July 2025  
+📍 Bhilai, Chhattisgarh | 14th July 2025 - 19th July 2025  
 - Learned **Python-based data analysis and exploratory data analysis (EDA)**.  
 - Worked with **Pandas, Matplotlib, Seaborn, and Plotly** for data visualization.  
 - Created interactive dashboards and performed analysis on real-world datasets.
