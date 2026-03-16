@@ -66,7 +66,7 @@
 - Worked on **computer vision tasks** and ML pipelines.  
 - Built an **Inventory Management System** to manage products, stock, and records efficiently.  
 
-🔹 **Data Science Intern – ISER (Remote)**  
+🔹 **Data Science Intern – IISER Bhopal (Remote)**  
 📍 Bhopal, Madhya Pradesh | Jan 2026 – Present  
 - Worked on **image tampering detection using computer vision and machine learning**.  
 - Used the **COCO dataset** for experimentation and model development.  
