@@ -43,9 +43,8 @@
 💻 Skilled in building intelligent systems for real-world problem solving  
 
 </div>
----
 
-## 📄 Resume
+## 📄 My Resume
 
 <p align="center">
   <a href="https://github.com/Dhirajgupta440/Dhirajgupta440/blob/main/Dhiraj_Kumar_Resume.pdf" target="_blank">
@@ -56,7 +55,7 @@
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
----
+
 
 ## 🚀 Projects
 
