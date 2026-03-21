@@ -61,7 +61,7 @@
 ## 💼 Internship & Workshop Experience
 
 🔹 **Machine Learning Intern – STEMbotix Pvt. Ltd. (On Site)**  
-📍 Gandhinagar, Gujarat | Feb 2026 – Present  
+📍 Gandhinagar, Gujarat | Jan 2026 – Present  
 - Developed and optimized machine learning models for real-world applications.  
 - Worked on **computer vision tasks** and ML pipelines.  
 - Built an **Inventory Management System** to manage products, stock, and records efficiently.  
