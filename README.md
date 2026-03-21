@@ -104,7 +104,7 @@
 | Category            | Tools & Technologies |
 |--------------------|-----------------------|
 | **Programming** | Python, C, C++, R |
-| **ML/DL/DS** | Classification, Regression, Feature Engineering, Model Evaluation, Data Pre-processing, Statistical Analysis, SQL, Neural Networks, Image Classification, CNN, ANN, RNN, NumPy, Pandas, TensorFlow, Seaborn, Matplotlib, Plotly, Scikit-Learn, PyTorch, Keras, Scikit-learn |
+| **ML/DL/DS** | Classification, Regression, Feature Engineering, Model Evaluation, Data Pre-processing, Cross Validation, Statistical Analysis, SQL, Neural Networks, Image Classification, CNN, ANN, RNN, NumPy, Pandas, TensorFlow, Seaborn, Matplotlib, Plotly, Scikit-Learn, PyTorch, Keras, Scikit-learn |
 | **Tools/Platforms**| Jupyter Notebook, Visual Studio, Git, GitHub,Windows, Linux, Android, Vercel, VPS, Render, Google Colab |
 
 ---
