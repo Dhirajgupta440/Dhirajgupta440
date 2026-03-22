@@ -34,7 +34,7 @@
 
 <div align="center">
 
-🎓 **B.Tech (Hons.) CSE (Artificial Intelligence)** | CSVTU Bhilai
+🎓 **B.Tech (Hons.) CSE (Artificial Intelligence)** | CSVTU Bhilai Chhattisgarh 
 
 🤖 Passionate about Artificial Intelligence, Machine Learning & Data Science
 
