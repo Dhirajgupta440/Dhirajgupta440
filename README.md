@@ -40,7 +40,7 @@
 
 💡 Strong foundation in Machine Learning, Data Structures & Deep Learning
 
-💻 Skilled in building intelligent systems for real-world problem solving  
+💻 Skilled in building intelligent systems for real-world problem   
 
 </div>
 
