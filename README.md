@@ -117,7 +117,7 @@
 </p>
 
 <p align="center">
-  End-to-end lifecycle of Machine Learning: From strategy → data → modeling → deployment → monitoring 🔁
+  🚀 This diagram represents the complete lifecycle of building real-world Machine Learning systems.
 </p>
 
 ---
