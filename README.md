@@ -71,11 +71,11 @@
 
 ## 💼 Internship & Workshop Experience
 
-🔹 **Machine Learning Intern – STEMbotix Pvt. Ltd. (On Site)**  
+🔹 **Technical Intern – STEMbotix Pvt. Ltd. (On Site)**  
 📍 Gandhinagar, Gujarat | Jan 2026 – Present  
+- Worked in the field of **Machine Learning and Web Development**.  
 - Developed and optimized machine learning models for real-world applications.  
-- Worked on **computer vision tasks** and ML pipelines.  
-- Built an **Inventory Management System** to manage products, stock, and records efficiently.  
+- Built aweb-based **Inventory Management System** to manage products, stock, and records efficiently.  
 
 🔹 **Data Science Intern – IISER Bhopal (Remote)**  
 📍 Bhopal, Madhya Pradesh | Jan 2026 – Present  
