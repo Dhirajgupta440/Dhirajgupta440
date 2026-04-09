@@ -108,6 +108,19 @@
 | **Tools/Platforms**| Jupyter Notebook, Visual Studio, Git, GitHub,Windows, Linux, Android, Vercel, VPS, Render, Google Colab , Arduino, ESP32|
 
 ---
+---
+
+## 🧠 Machine Learning Workflow
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dhirajgupta440/Dhirajgupta440/main/ml_workflow.jpg" width="700"/>
+</p>
+
+<p align="center">
+  End-to-end lifecycle of Machine Learning: From strategy → data → modeling → deployment → monitoring 🔁
+</p>
+
+---
 
 <div align="center">
 
