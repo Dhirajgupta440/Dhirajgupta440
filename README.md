@@ -137,7 +137,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Dhirajgupta440-000?style=for-the-badge&logo=github)](https://github.com/Dhirajgupta440)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhiraj%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiraj-kumar-93a17a308/)
 [![Instagram](https://img.shields.io/badge/Instagram-Dhiraj_Gupta-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhiraj_gupta440/?hl=en)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://dhiraj-dev-space.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://dhirajgupta440.github.io/Dhiraj_Portfolio58/)
 [![Email](https://img.shields.io/badge/Email-dhiraj.300012723016@csvtu.ac.in-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhiraj.300012723016@csvtu.ac.in)
 
 <br>
