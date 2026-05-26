@@ -59,6 +59,8 @@
 
 ## 🚀 Projects
 
+🔹 **[Power Demand Forecasting System](https://github.com/Dhirajgupta440/Power_Demand_Forecasting)** ML-based system for predicting electricity demand for every 10-minute block of the day .
+
 🔹 **[Students Performance Predictor](https://github.com/Dhirajgupta440/Students_Performance_Predictor)** ML-based web app predicting exam percentage using Linear Regression.
 
 🔹 **[Movie Review Sentiment Analysis](https://github.com/Dhirajgupta440/Movie_Review_Sentiment_Analysis)** Deep Learning model using TensorFlow to classify reviews as Positive or Negative.
